@@ -22,7 +22,7 @@
 
 **City Coordinator**
 - **Username:** Angelo
-- **Password:** Torano0909
+- **Password:** Torano0909,
 
 After logging in, an OTP will be sent to the registered phone number. If you do not have access to the number, check the `otp_codes` table in the database to view the OTP sent.
 
